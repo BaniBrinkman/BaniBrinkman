@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaniBrinkman
 - 👀 I’m interested in tech 
 - 🌱 I’m currently learning data
-- 💞️ I’m looking to collaborate on anything to deal with video games
+- 💞️ I’m looking to collaborate on anything to deal with data
 - 📫 How to reach me BaniBrinkman@gmail.com
 
 <!---
